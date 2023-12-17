@@ -31,9 +31,10 @@ This project is a website template aimed at providing a platform for programmers
 4. Clone this repository.
 5. Open index.html in your web browser.
 ## Contributing
--**Reporting Bugs:** If you find a bug, please create a detailed issue to report it.
--**Suggesting Enhancements:** Feel free to suggest improvements or new features by opening an issue.
--**Code Contributions:** Contributions via pull requests are highly appreciated.
+1. Reporting Bugs: If you find a bug, please create a detailed issue to report it.
+2. Suggesting Enhancements: Feel free to suggest improvements or new features by opening an issue.
+3. Code Contributions: Contributions via pull requests are highly appreciated.
+
 ## How to Contribute
 1. Fork the repository to your GitHub account.
 2. Clone the forked repository to your local machine.
